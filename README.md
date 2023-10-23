@@ -14,6 +14,7 @@
 
 - [CompTIA Security+](https://www.credly.com/badges/a65a6645-dfe1-45c8-8283-f1fc3152fcd7)
 - [Security Blue Team level 1 (in progress)](https://www.securityblue.team/why-btl1)
+- [AZ-500: Microsoft Azure Security Technologies (in progress)](https://learn.microsoft.com/en-us/credentials/certifications/exams/az-500/)
 
 
 <h2> 🤳 Connect with me:</h2>
