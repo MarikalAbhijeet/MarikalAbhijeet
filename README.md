@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Advanced Malware Analysis and Digital Forensics Expertise</b>
-  - [Walkthrough](https://github.com/MarikalAbhijeet/DigitalForensics)
+  - <a href="https://github.com/MarikalAbhijeet/DigitalForensics" target="_blank">Walkthrough</a>
 - <b>Cloud-Driven Website Transformation with AWS)</b>
   - [Dummy](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b></b></i>
 - <b>Windows Privilege Escalation with Local Potato	</b>
