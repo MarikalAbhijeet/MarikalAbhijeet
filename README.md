@@ -5,7 +5,7 @@
 - <b>Advanced Malware Analysis and Digital Forensics Expertise</b>
   - [Dummy](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>Cloud-Driven Website Transformation with AWS)</b>
-  - [Dummy](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
+  - [Dummy](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b></b></i>
 - <b>Windows Privilege Escalation with Local Potato	</b>
   - [Dummy](https://github.com/joshmadakor1/Sentinel-Lab)
 
@@ -13,10 +13,8 @@
 <h2>📜 Certifications</h2>
 
 - [CompTIA Security+](https://www.credly.com/badges/a65a6645-dfe1-45c8-8283-f1fc3152fcd7)
-- [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
-- [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
-- [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
-- [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
+- [Security Blue Team level 1 (in progress)](https://www.securityblue.team/why-btl1)
+
 
 <h2> 🤳 Connect with me:</h2>
 
