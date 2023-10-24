@@ -9,6 +9,10 @@
 - <b>Windows Privilege Escalation with Local Potato	</b>
   - [Walkthrough](https://github.com/MarikalAbhijeet/Localpotatoexploit)
 
+<h2>👨‍💻 Computer Science Projects:</h2>
+
+- <b>Chatbot Speech-to-Text</b>
+  - <a href="https://github.com/MarikalAbhijeet/DigitalForensics" target="_blank">Walkthrough</a>
 
 <h2>📜 Certifications</h2>
 
