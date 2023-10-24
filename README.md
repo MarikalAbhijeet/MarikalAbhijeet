@@ -8,6 +8,8 @@
   - [Walkthrough](https://github.com/MarikalAbhijeet/AWS-CloudMigration) <b></b></i>
 - <b>Windows Privilege Escalation with Local Potato	</b>
   - [Walkthrough](https://github.com/MarikalAbhijeet/Localpotatoexploit)
+- <b>WannaCry Ransomeware Reverse Engineering	</b>
+  - [Walkthrough](https://github.com/MarikalAbhijeet/Localpotatoexploit)
 
 <h2>👨‍💻 Computer Science Projects:</h2>
 
