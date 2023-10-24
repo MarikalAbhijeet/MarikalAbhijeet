@@ -16,7 +16,8 @@
 - [Security Blue Team level 1 (in progress)](https://www.securityblue.team/why-btl1)
 - [AZ-500: Microsoft Azure Security Technologies (in progress)](https://learn.microsoft.com/en-us/credentials/certifications/exams/az-500/)
 
-
+<h2>📜 Publications</h2>
+[A Hybrid Round Robin Scheduling Mechanism for Process Management](https://www.ijcaonline.org/archives/volume177/number36/31139-2020919851)
 <h2> 🤳 Connect with me:</h2>
 
 <!--[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]-->
