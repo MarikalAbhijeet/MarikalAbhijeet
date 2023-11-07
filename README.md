@@ -4,12 +4,12 @@
 
 - <b>Advanced Malware Analysis and Digital Forensics Expertise</b>
   - <a href="https://github.com/MarikalAbhijeet/DigitalForensics" target="_blank">Walkthrough</a>
-- <b>Cloud-Driven Website Transformation with AWS)</b>
-  - [Walkthrough](https://github.com/MarikalAbhijeet/AWS-CloudMigration) <b></b></i>
 - <b>Windows Privilege Escalation with Local Potato	</b>
   - [Walkthrough](https://github.com/MarikalAbhijeet/Localpotatoexploit)
+- <b>Cloud-Driven Website Transformation with AWS)</b>
+  - [Walkthrough](https://github.com/MarikalAbhijeet/AWS-CloudMigration) <b></b></i>
 - <b>WannaCry Ransomeware Reverse Engineering	</b>
-  - [Walkthrough](https://github.com/MarikalAbhijeet/Localpotatoexploit)
+  - [Walkthrough]()
 
 <h2>👨‍💻 Computer Science Projects:</h2>
 
