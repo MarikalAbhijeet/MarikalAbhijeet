@@ -6,7 +6,7 @@
   - <a href="https://github.com/MarikalAbhijeet/DigitalForensics" target="_blank">Walkthrough</a>
 - <b>Windows Privilege Escalation with Local Potato	</b>
   - [Walkthrough](https://github.com/MarikalAbhijeet/Localpotatoexploit)
-- <b>Cloud-Driven Website Transformation with AWS)</b>
+- <b>Cloud-Driven Website Transformation with AWS</b>
   - [Walkthrough](https://github.com/MarikalAbhijeet/AWS-CloudMigration) <b></b></i>
 - <b>WannaCry Ransomeware Reverse Engineering	</b>
   - [Walkthrough]()
