@@ -10,7 +10,6 @@
   - [Walkthrough](https://github.com/MarikalAbhijeet/AWS-MigrationCloud) <b></b></i>
 - <b>WannaCry Ransomeware Reverse Engineering	</b>
   - [Walkthrough](https://github.com/MarikalAbhijeet/WannacryVirus-reverse)
-
 - <b> Biometrics Facial Recognition using OpenCV	</b>
   - [Walkthrough](https://github.com/MarikalAbhijeet/Biometrics-Facial-RecognitionOpenCV)
 <h2>👨‍💻 Computer Science Projects:</h2>
