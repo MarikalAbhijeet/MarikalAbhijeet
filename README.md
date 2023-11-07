@@ -7,7 +7,7 @@
 - <b>Windows Privilege Escalation with Local Potato	</b>
   - [Walkthrough](https://github.com/MarikalAbhijeet/Localpotatoexploit)
 - <b>Cloud-Driven Website Transformation with AWS</b>
-  - [Walkthrough]([https://github.com/MarikalAbhijeet/AWS-CloudMigration](https://github.com/MarikalAbhijeet/AWS-MigrationCloud/blob/main/README.md)) <b></b></i>
+  - [Walkthrough](https://github.com/MarikalAbhijeet/AWS-MigrationCloud.git) <b></b></i>
 - <b>WannaCry Ransomeware Reverse Engineering	</b>
   - [Walkthrough]()
 
