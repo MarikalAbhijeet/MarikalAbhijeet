@@ -11,6 +11,8 @@
 - <b>WannaCry Ransomeware Reverse Engineering	</b>
   - [Walkthrough](https://github.com/MarikalAbhijeet/WannacryVirus-reverse)
 
+- <b> Biometrics Facial Recognition using OpenCV	</b>
+  - [Walkthrough](https://github.com/MarikalAbhijeet/Biometrics-Facial-RecognitionOpenCV)
 <h2>👨‍💻 Computer Science Projects:</h2>
 
 - <b>Chatbot Speech-to-Text</b>
