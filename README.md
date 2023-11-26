@@ -21,7 +21,7 @@
 
 - [CompTIA Security+](https://www.credly.com/badges/a65a6645-dfe1-45c8-8283-f1fc3152fcd7)
 - [Security Blue Team level 1 (in progress)](https://www.securityblue.team/why-btl1)
-- [Google Digital Leader (in progress)]()
+- [Palo Alto Networks Certified Security Automation Engineer (PCSAE) (in progress)](https://www.paloaltonetworks.com/services/education/palo-alto-networks-certified-security-automation-engineer)
 
 <h2>📜 Publications</h2>
 
