@@ -11,7 +11,7 @@
 <ul>
   <li><b>Penetration Testing and Security Enhancement Project</b>
     <ul>
-      <li><a href="https://github.com/MarikalAbhijeet/DigitalForensics" target="_blank">Walkthrough</a></li>
+      <li><a href="https://github.com/MarikalAbhijeet/PentestReport" target="_blank">Walkthrough</a></li>
     </ul>
   </li>
   <li><b>Advanced Malware Analysis and Digital Forensics Expertise</b>
