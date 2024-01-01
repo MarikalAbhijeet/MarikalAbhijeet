@@ -9,7 +9,7 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 <ul>
-  <li><b>Advanced Network Penetration and Security Enhancement Project</b>
+  <li><b>Penetration Testing and Security Enhancement Project</b>
     <ul>
       <li><a href="https://github.com/MarikalAbhijeet/DigitalForensics" target="_blank">Walkthrough</a></li>
     </ul>
