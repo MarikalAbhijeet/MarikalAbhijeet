@@ -1,7 +1,8 @@
 <h1>Hi, I'm Abhijeet!, <a href="https://www.linkedin.com/in/abhijeetm9/">Cybersecurity Professional</a> </h1>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
-
+- <b>Advanced Network Penetration and Security Enhancement Project</b>
+  - <a href="https://github.com/MarikalAbhijeet/DigitalForensics" target="_blank">Walkthrough</a>
 - <b>Advanced Malware Analysis and Digital Forensics Expertise</b>
   - <a href="https://github.com/MarikalAbhijeet/DigitalForensics" target="_blank">Walkthrough</a>
 - <b>Windows Privilege Escalation with Local Potato	</b>
