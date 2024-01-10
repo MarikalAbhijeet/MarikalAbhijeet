@@ -49,7 +49,10 @@
     </ul>
   </li>
 </ul>
-
+<h2>📜 TryHackMe</h2>
+<ul>
+  <li><a href="https://tryhackme.com/p/AbHash" target="_blank">AbHash TryhackME Top 5%</a></li>
+</ul>
 <h2>📜 Certifications</h2>
 <ul>
   <li><a href="https://www.credly.com/badges/a65a6645-dfe1-45c8-8283-f1fc3152fcd7" target="_blank">CompTIA Security+</a></li>
