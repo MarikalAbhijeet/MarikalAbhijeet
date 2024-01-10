@@ -51,7 +51,7 @@
 </ul>
 <h2>📜 TryHackMe</h2>
 <ul>
-  <li><a href="https://tryhackme.com/p/AbHash" target="_blank">AbHash TryhackME Top 5%</a></li>
+  <li><a href="https://tryhackme.com/p/AbHash" target="_blank">AbHash TryHackMe Top 5%</a></li>
 </ul>
 <h2>📜 Certifications</h2>
 <ul>
