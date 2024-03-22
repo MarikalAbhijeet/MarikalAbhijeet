@@ -51,13 +51,13 @@
 </ul>
 <h2>📜 TryHackMe</h2>
 <ul>
-  <li><a href="https://tryhackme.com/p/AbHash" target="_blank">AbHash TryHackMe Top 5%</a></li>
+  <li><a href="https://tryhackme.com/p/AbHash" target="_blank">AbHash TryHackMe Top 3%</a></li>
 </ul>
 <h2>📜 Certifications</h2>
 <ul>
   <li><a href="https://www.credly.com/badges/a65a6645-dfe1-45c8-8283-f1fc3152fcd7" target="_blank">CompTIA Security+</a></li>
-  <li><a href="https://www.securityblue.team/why-btl1" target="_blank">Security Blue Team level 1 (in progress)</a></li>
-  <li><a href="https://www.paloaltonetworks.com/services/education/palo-alto-networks-certified-security-automation-engineer" target="_blank">Palo Alto Networks Certified Security Automation Engineer (PCSAE) (in progress)</a></li>
+  <li><a href="https://www.credly.com/earner/earned/badge/41c5c8b7-0826-4a8b-be62-570817cb7066" target="_blank">Security Blue Team level 1 </a></li>
+  <li><a href="https://security.ine.com/certifications/ejpt-certification/" target="_blank">Junior Penetration Tester (eJPT) (in progress)</a></li>
 </ul>
 
 <h2>📜 Publications</h2>
