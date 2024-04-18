@@ -5,7 +5,7 @@
 </head>
 <body>
 
-<h1>Hi, I'm Abhijeet!, <a href="https://www.linkedin.com/in/abhijeetm9/">Cybersecurity Professional</a></h1>
+<h1>Hi, I'm Abhijeet!, <a href="">Cybersecurity Professional</a></h1>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 <ul>
