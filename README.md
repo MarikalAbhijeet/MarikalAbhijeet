@@ -69,7 +69,7 @@
 
 <h2>🤳 Connect with me:</h2>
 <a href="https://twitter.com/MarikalAbhijeet"><img src="path_to_your_twitter_icon.png" alt="Twitter"></a>
-<a href="https://www.linkedin.com/in/abhijeetm9/"><img src="path_to_your_linkedin_icon.png" alt="LinkedIn"></a>
+<a href=""><img src="path_to_your_linkedin_icon.png" alt="LinkedIn"></a>
 
 </body>
 </html>
