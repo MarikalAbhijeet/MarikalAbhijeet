@@ -11,7 +11,7 @@
 <ul>
   <li><b>Federated Identity Management with OKTA and Azure AD/Entra ID</b>
     <ul>
-      <li><a href="" target="_blank">Walkthrough</a></li>
+      <li><a href="https://github.com/MarikalAbhijeet/Okta-EntraID_Project" target="_blank">Walkthrough</a></li>
     </ul>
   </li>
   <li><b>Penetration Testing and Security Enhancement Project</b>
