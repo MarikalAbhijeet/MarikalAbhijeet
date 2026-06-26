@@ -30,10 +30,6 @@ TraceAI Engine is a local-first AI security investigation workspace that combine
   <li>Human-reviewed incident reports with MITRE ATT&CK and KQL pivots</li>
 </ul>
 
-<p>
-  <a href="https://github.com/MarikalAbhijeet/ai-security-lab">TraceAI Engine Repository</a> |
-  <a href="https://marikalabhijeet.github.io/ai-security-lab/">TraceAI Engine Landing Page</a>
-</p>
 
 <hr>
 
