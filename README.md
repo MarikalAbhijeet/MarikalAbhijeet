@@ -1,4 +1,4 @@
-<h1>Hi, I'm Abhijeet Marikal 👋</h1>
+<h1>Hi, I'm Abhijeet👋</h1>
 
 <h3>Cybersecurity Engineer | AI Security Builder | SOC & Cloud Security</h3>
 
