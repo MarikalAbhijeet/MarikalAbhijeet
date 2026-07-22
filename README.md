@@ -96,52 +96,7 @@ TraceAI Engine is a local-first AI security investigation workspace that combine
 
 <hr>
 
-<h2>📜 Certifications</h2>
 
-<ul>
-  <li>
-    <a href="https://www.credly.com/badges/a65a6645-dfe1-45c8-8283-f1fc3152fcd7">CompTIA Security+</a>
-  </li>
-  <li>
-    <a href="https://www.credly.com/earner/earned/badge/41c5c8b7-0826-4a8b-be62-570817cb7066">Security Blue Team Level 1</a>
-  </li>
-  <li>
-    <a href="https://github.com/MarikalAbhijeet/Splunk-Certificates">Splunk Certifications</a>
-  </li>
-  <li>CompTIA CySA+</li>
-</ul>
-
-<hr>
-
-<h2>🎯 TryHackMe</h2>
-
-<ul>
-  <li>
-    <a href="https://tryhackme.com/p/AbHash">AbHash TryHackMe Profile — Top 3%</a>
-  </li>
-</ul>
-
-<hr>
-
-<h2>📄 Publication</h2>
-
-<ul>
-  <li>
-    <a href="https://www.ijcaonline.org/archives/volume177/number36/31139-2020919851">
-      A Hybrid Round Robin Scheduling Mechanism for Process Management
-    </a>
-  </li>
-</ul>
-
-<hr>
-
-<h2>🤝 Connect with me</h2>
-
-<ul>
-  <li><a href="https://github.com/MarikalAbhijeet">GitHub</a></li>
-  <li><a href="https://twitter.com/MarikalAbhijeet">Twitter / X</a></li>
-  <li><a href="ADD_YOUR_LINKEDIN_URL_HERE">LinkedIn</a></li>
-</ul>
 
 <hr>
 
